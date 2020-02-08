@@ -17,7 +17,5 @@ public class withoutExceptionHandling {
 		}
 		
 		System.out.println("value of c is :" +d.getId());
-		System.out.println("value of c is : Not defined");
-		System.out.println("value of c is : Not defined");
 	}
 }
